@@ -1,0 +1,7 @@
+echo "# glassAddict" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nick7118/glassAddict.git
+git push -u origin main
